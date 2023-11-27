@@ -1,3 +1,3 @@
 # git-test
-my first github student
+My first github student!
 Hello Odin!
